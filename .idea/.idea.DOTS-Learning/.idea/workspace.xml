@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a17bfefc-962f-400a-8ee9-640b98f839ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DOTS-Learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DOTS-Learning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/HelloCube/HelloCube.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/HelloCube/HelloCube.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HelloCube/Common/ExecuteAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HelloCube/Common/ExecuteAuthoring.cs" afterDir="false" />
-    </list>
+    <list default="true" id="a17bfefc-962f-400a-8ee9-640b98f839ba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -1,2 +1,2 @@
 # DOTS-Learning
-This Unity project is do some DOTS related exercises
+This Unity project is to do some DOTS related exercises

@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a17bfefc-962f-400a-8ee9-640b98f839ba" name="Changes" comment="" />
+    <list default="true" id="a17bfefc-962f-400a-8ee9-640b98f839ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HelloCube/IJobEntity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HelloCube/IJobEntity/RotationSystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HelloCube/IJobEntity/RotationSystem.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DOTS-Learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DOTS-Learning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/HelloCube/HelloCube/CubeRotation.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/HelloCube/HelloCube/CubeRotation.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HelloCube/Common/ExecuteAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HelloCube/Common/ExecuteAuthoring.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +50,7 @@
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2023.2.12f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/6000.0.21f1/Unity.app/Contents/MacOS/Unity" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath $PROJECT_DIR$ -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -49,7 +58,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2023.2.12f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/6000.0.21f1/Unity.app/Contents/MacOS/Unity" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath $PROJECT_DIR$ -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -93,6 +102,7 @@
       <updated>1748249247741</updated>
       <workItem from="1748249249774" duration="879000" />
       <workItem from="1748250164093" duration="1012000" />
+      <workItem from="1748282935448" duration="130000" />
     </task>
     <servers />
   </component>

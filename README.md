@@ -1,10 +1,11 @@
 # DOTS-Learning
+
 ### Q: What is DOTS?
-A: Unity DOTS (Data Oriented Technology Stack) is a system that Unity provides to harness the power of multithreading. 
+A: Unity DOTS (Data Oriented Technology Stack) is a system that Unity provides to harness the power of multithreading.
 
 We all know that Unity is a single threaded game engine means all of the processing of all the different systems that Unity engine provides, run on one and only one thread which is kind of waste of resources as almost all of the devices today has multiple cores and multiple threads running on them to be able to improve the performace of applications. To resolve this single-threaded problem of Unity, the DOTS system was introduced.
 
-In this repository, we will try to unlock the powers of DOTS in Unity and will try to implement different projects along the way. 
+In this repository, we will try to unlock the powers of DOTS in Unity and will try to implement different projects along the way.
 
 ### Setup:
 To set up DOTS in Unity, we'd need the following steps:
@@ -16,3 +17,12 @@ To set up DOTS in Unity, we'd need the following steps:
 	- Entities
 	- Entities Graphics
 	- Mathematics
+
+## Exercises
+Given below are all the exercises from different tutorial projects.
+
+### Unity EntityComponentSystem samples
+These samples are provided by Unity to understand the basic working of DOTS. [Here](https://github.com/Unity-Technologies/EntityComponentSystemSamples) is the link to the repository provided by Unity.
+Below is the list of project I've created while working on the samples from the repo.
+
+- #### [Hello Cube](https://github.com/imranzaidiedu/DOTS-Learning/blob/main/Assets/Docs/HelloCube/README.md)

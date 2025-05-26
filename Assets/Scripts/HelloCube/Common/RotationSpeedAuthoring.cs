@@ -21,7 +21,7 @@ namespace HelloCube.Common
         }
     }
 
-    public struct RotationSpeed : IComponentData, IEnableableComponent
+    public struct RotationSpeed : IComponentData
     {
         public float RadiansPerSecond;
     }

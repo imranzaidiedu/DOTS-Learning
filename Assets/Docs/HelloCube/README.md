@@ -16,4 +16,5 @@ The ways to improve performance that we are going to test are as follows
 
 ### Main Thread
 This will simulate the same performance we can achieve by implementing a regular gameObject with a script on it to rotate.
-We are 
+The framerate with this implementation is between 100 and 270. The 170 fps fluctuation is because of garbage collector once every 10-20 seconds
+

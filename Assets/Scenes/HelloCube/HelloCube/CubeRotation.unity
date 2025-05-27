@@ -356,8 +356,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f433b28ad777e430a822a79ed4cc44b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainThread: 1
-  iJobEntityThread: 0
+  mainThread: 0
+  iJobEntityThread: 1
 --- !u!4 &2036539880
 Transform:
   m_ObjectHideFlags: 0

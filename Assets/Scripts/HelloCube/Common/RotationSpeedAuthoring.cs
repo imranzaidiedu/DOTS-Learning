@@ -4,6 +4,9 @@ using Unity.Entities;
 
 namespace HelloCube.Common
 {
+    /// <summary>
+    /// This script is to bake rotation speed value as an IComponent to this gameObject's entity
+    /// </summary>
     public class RotationSpeedAuthoring : MonoBehaviour
     {
         public float rotationSpeed = 10f;

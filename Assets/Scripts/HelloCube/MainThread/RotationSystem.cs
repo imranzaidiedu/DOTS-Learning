@@ -5,6 +5,10 @@ using HelloCube.Common;
 
 namespace HelloCube.MainThread
 {
+    /// <summary>
+    /// This system class is checking if the <see cref="ExecuteMainThread"/> component is executed and then
+    /// execute this system 
+    /// </summary>
     public partial struct RotationSystem : ISystem
     {
         [BurstCompile]
